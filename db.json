@@ -1,3 +1,18 @@
 {
-  "ip":"14.51.68.74"
+    "posts": [
+        {
+            "id": 1,
+            "title": "14.51.68.74"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "ljh7493"
+    }
 }
